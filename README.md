@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/yourusername/stats-preview-card) 
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Pichikachandu/stats-preview-card) 
+- [Live Site URL]((https://stats-preview-card-component-solution-blue.vercel.app/))
 
 ## My Process
 
@@ -82,5 +82,5 @@ I plan to continue working on:
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Pichikachandu)
+- Website - [Pichikachandu]https://pichikachandu.netlify.app)
+- Frontend Mentor - [@Pichikachandu](https://www.frontendmentor.io/profile/Pichikachandu)
